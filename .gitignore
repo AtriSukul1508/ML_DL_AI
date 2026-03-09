@@ -1,0 +1,8 @@
+/CNN_Variations/flowers
+/CNN_Variations/wandb
+/CV from Scratch
+/xAI
+/RAG
+/ML In Prod
+.env
+*.log
